@@ -1,0 +1,2 @@
+# Bot wejtaczi
+ private
